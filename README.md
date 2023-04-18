@@ -1,2 +1,2 @@
 # sender_emails
-light emails sender 
+a light script to send emails for gropu of receivers
