@@ -1,0 +1,11 @@
+{
+  "server_config": {
+    "sender_email": "support@mailserver.net",
+    "sender_password": "password",
+    "smtp_server": "mail.mailserver.net",
+    "smtp_port": 25
+  },
+  "message_config": {
+    "subject": "Attention"
+  }
+}
